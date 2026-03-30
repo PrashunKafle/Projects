@@ -76,4 +76,4 @@ This project is mainly for learning:
 - seeing how a recession can develop over time
 
 ## Author
-- Prashun Kafle. 
+Prashun Kafle. 
