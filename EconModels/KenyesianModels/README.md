@@ -66,9 +66,7 @@ U_t = U^* + \alpha \cdot \max(0, Y^* - Y_t)
 
 The model generates a recession through a negative confidence shock:
 
-\[
-\text{lower confidence} \rightarrow \text{lower consumption and investment} \rightarrow \text{lower output} \rightarrow \text{higher unemployment} \rightarrow \text{lower spending again}
-\]
+lower confidence -> lower consumption and investment -> lower output -> higher unemployment -> lower spending again
 
 ## Purpose
 
